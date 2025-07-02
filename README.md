@@ -20,7 +20,7 @@
 
 - **React** / **React Native** / **TypeScript**
 - **Tailwind CSS**, **Figma**
-
+- **HTML**, **CSS**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,redux,html,css,figma" />
 </p>

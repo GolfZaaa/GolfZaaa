@@ -63,8 +63,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golfzaaa&show_icons=true&theme=radical" alt="Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golfzaaa&theme=radical" alt="Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golfzaaa&show_icons=true&theme=radical" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golfzaaa&theme=radical" alt="Streak" height="150" />
 </p>
 
 <p align="center">

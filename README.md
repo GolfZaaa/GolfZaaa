@@ -52,6 +52,14 @@
 
 ---
 
+##  <img src="https://skillicons.dev/icons?i=figma" height="30" width="40" alt="figma"  />  Figma
+
+- 🧑‍💻 **Front-end & Back-end Developer**
+- 🎯 Focused on **clean code**, **performance**, and **beautiful UI**
+- 🌱 Currently exploring **Microservices** and **Clean Architecture**
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">

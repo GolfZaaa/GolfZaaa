@@ -10,18 +10,16 @@
 ## ✨ About Me
 
 - 🧑‍💻 **Front-end & Back-end Developer**
-- 🎯 Focused on **clean code**, **performance**, and **beautiful UI**
-- 🌱 Currently exploring **Microservices** and **Clean Architecture**
+- 🎯 -
+- 🌱 -
 
 ---
 
-## 🚀 Front-end Development
+## 🎨 Front-end Development
 
-🎨 Crafting interactive experiences:
 
 - **React** / **React Native** / **TypeScript**
 - **Tailwind CSS**, **Figma**
-- **Redux**, **Storybook**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,redux,html,css,figma" />

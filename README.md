@@ -33,10 +33,10 @@
 
 - **.NET Core / C#**
 - **SQL Server**, **Entity Framework**
-- **REST APIs**, **JWT Auth**
+- **REST APIs**, **GitHub**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,git,postman" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,git" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="45" width="50" alt="mssql" />
 </p>
 

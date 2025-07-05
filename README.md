@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 - 🧑‍💻 **Front-end & Back-end Developer**
-- 🎯 -
+- 🎯 **Studied Computer Science at the Kanchanaburi Rajabhat University, Thailand**
 - 🌱 -
 
 ---

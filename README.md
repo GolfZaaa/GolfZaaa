@@ -44,9 +44,9 @@
 
 ## 🌱 Currently Learning
 
-- 🏗️ Microservices & Message Queues (**RabbitMQ**)
-- 🎨 Component-driven development (**Storybook**)
-- ⚙️ Performance optimization in **React Native**
+- 🏗️ **Figma**
+- 🎨 **Ui/UX**
+- ⚙️ **Structure and principles of creating wireframes**
 
 ---
 

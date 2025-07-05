@@ -22,7 +22,7 @@
 - **Tailwind CSS**, **Figma**
 - **HTML**, **CSS**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,redux,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,html,css,figma" />
 </p>
 
 ---

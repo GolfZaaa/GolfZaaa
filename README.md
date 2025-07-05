@@ -11,7 +11,7 @@
 
 - 🧑‍💻 **Front-end & Back-end Developer**
 - 🎯 **Studied Computer Science at the Kanchanaburi Rajabhat University, Thailand**
-- 🌱 -
+- 🌱 **Passionate about designing and customizing websites and mobile applications**
 
 ---
 
